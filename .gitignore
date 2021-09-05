@@ -1,11 +1,30 @@
 # Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="Estilo.css">
+	<title>Hola</title>
+</head>
+<body>
+ <div class="title">
+ 	<header>
+ 		<h1>Hola pedazo de virgen</h1>
+ 		<nav>
+ 		<ul>
+ 			<li>
+ 			<a href="https://open.spotify.com/playlist/5IfCEd0EqumLa1Q6o0GYsT?si=055b6846f5594d74"> 
+ 			No seas trolo man
+ 		</a>
+ 	</li>
+ 	</ul>
+</nav>
+ 	</header>
 
-# Other files and folders
-.settings/
+
+ </div>
+
+ <aside>
+ <p>Es gay deja al nene</p>
+ </aside>
 
 # Executables
 *.swf
